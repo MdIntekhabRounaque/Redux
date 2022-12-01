@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: lightgray
+}
+
+.container{
+  margin-top: 25%;
+  text-align: center;
+  line-height: 50px;
+  /* color: #fff; */
+}
+
+
+.quantity a {
+border: 2px solid black;
+padding: 10px;
+background-color: aqua;
+border-radius: 5px;
+cursor: pointer;
+
+
+}
+
+
+.quantity_input{
+  padding: 8px ;
+  padding-right: 3px;
+  margin-left: 2px;
+  margin-right: 2px;
+  border-radius: 5px;
+}
+.quantity a span{
+  font-size: 20px;
+} 
+
+
+
